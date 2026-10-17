@@ -1,0 +1,4 @@
+interface:
+  display_name: "Qwen Image 本地编辑"
+  short_description: "调用本机 Qwen Image 2.1 Turbo，支持单图编辑与多参考动漫角色替换"
+  default_prompt: "使用 $qwen-image-local 检查本机环境，并按我的要求编辑图片。"
